@@ -8,4 +8,6 @@ def pair_sum(a, b):
 
 pair_sum_sequence(4)
 
+#O(1) — uses a constant amount of space regardless of input size.
+
 # THis progrma is of big o space complexity O(1) because it uses a constant amount of space regardless of the input size.
