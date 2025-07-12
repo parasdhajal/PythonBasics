@@ -7,3 +7,5 @@ def find_biggest_number(samplearray):
 
 samplearray = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 find_biggest_number(samplearray)
+
+#time of this program is O(n) because it iterates through the list once, where n is the number of elements in the list.
