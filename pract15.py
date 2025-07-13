@@ -4,7 +4,7 @@ arr1 = array('i', [1, 2, 3, 4, 5])
 
 
 def arrayindex(array,index):
-    if index >len(array):
+    if index >= len(array):
         return "Index out of range"
     else:
         print(array[index])
