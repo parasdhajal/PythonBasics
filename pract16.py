@@ -18,5 +18,5 @@ print(linear_search(arr, 3))
 arr.remove(3) 
 
 print(arr)
-
+#time complexity for deletion is O(n) because it may require shifting elements to fill the gap left by the removed element, which takes linear time in terms of the number of elements in the array.
 
